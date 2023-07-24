@@ -1,0 +1,42 @@
+[
+ {
+  "NWC_Rreal_Estate_Types_Code": 1,
+  "NWC_Rreal_Estate_Types_Name": "منزل",
+  "NWC_Rreal_Estate_Types_Reasons": ""
+ },
+ {
+  "NWC_Rreal_Estate_Types_Code": 2,
+  "NWC_Rreal_Estate_Types_Name": "فيلا",
+  "NWC_Rreal_Estate_Types_Reasons": ""
+ },
+ {
+  "NWC_Rreal_Estate_Types_Code": 3,
+  "NWC_Rreal_Estate_Types_Name": "قصر",
+  "NWC_Rreal_Estate_Types_Reasons": ""
+ },
+ {
+  "NWC_Rreal_Estate_Types_Code": 4,
+  "NWC_Rreal_Estate_Types_Name": "عمارة",
+  "NWC_Rreal_Estate_Types_Reasons": ""
+ },
+ {
+  "NWC_Rreal_Estate_Types_Code": 5,
+  "NWC_Rreal_Estate_Types_Name": "مزرعة",
+  "NWC_Rreal_Estate_Types_Reasons": ""
+ },
+ {
+  "NWC_Rreal_Estate_Types_Code": 6,
+  "NWC_Rreal_Estate_Types_Name": "مستودع",
+  "NWC_Rreal_Estate_Types_Reasons": ""
+ },
+ {
+  "NWC_Rreal_Estate_Types_Code": 7,
+  "NWC_Rreal_Estate_Types_Name": "شالية",
+  "NWC_Rreal_Estate_Types_Reasons": ""
+ },
+ {
+  "NWC_Rreal_Estate_Types_Code": 8,
+  "NWC_Rreal_Estate_Types_Name": "استراحة",
+  "NWC_Rreal_Estate_Types_Reasons": ""
+ }
+]

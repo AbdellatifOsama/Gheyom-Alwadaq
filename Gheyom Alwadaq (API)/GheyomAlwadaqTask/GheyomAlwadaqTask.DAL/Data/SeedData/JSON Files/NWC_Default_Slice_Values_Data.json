@@ -1,0 +1,42 @@
+[
+ {
+  "NWC_Default_Slice_Values_Code": 1,
+  "NWC_Default_Slice_Values_Name": "أقل من  16",
+  "NWC_Default_Slice_Values_Condtion": 15,
+  "NWC_Default_Slice_Values_Water_Price": 0.1,
+  "NWC_Default_Slice_Values_Sanitation_Price": 0.05,
+  "NWC_Default_Slice_Values_Reasons": ""
+ },
+ {
+  "NWC_Default_Slice_Values_Code": 2,
+  "NWC_Default_Slice_Values_Name": "من 16 - 30",
+  "NWC_Default_Slice_Values_Condtion": 30,
+  "NWC_Default_Slice_Values_Water_Price": 1,
+  "NWC_Default_Slice_Values_Sanitation_Price": 0.5,
+  "NWC_Default_Slice_Values_Reasons": ""
+ },
+ {
+  "NWC_Default_Slice_Values_Code": 3,
+  "NWC_Default_Slice_Values_Name": "من 31 - 45",
+  "NWC_Default_Slice_Values_Condtion": 45,
+  "NWC_Default_Slice_Values_Water_Price": 3,
+  "NWC_Default_Slice_Values_Sanitation_Price": 1.5,
+  "NWC_Default_Slice_Values_Reasons": ""
+ },
+ {
+  "NWC_Default_Slice_Values_Code": 4,
+  "NWC_Default_Slice_Values_Name": "من 46 - 60",
+  "NWC_Default_Slice_Values_Condtion": 60,
+  "NWC_Default_Slice_Values_Water_Price": 4,
+  "NWC_Default_Slice_Values_Sanitation_Price": 2,
+  "NWC_Default_Slice_Values_Reasons": ""
+ },
+ {
+  "NWC_Default_Slice_Values_Code": 5,
+  "NWC_Default_Slice_Values_Name": "أكثر من 60",
+  "NWC_Default_Slice_Values_Condtion": 60,
+  "NWC_Default_Slice_Values_Water_Price": 6,
+  "NWC_Default_Slice_Values_Sanitation_Price": 3,
+  "NWC_Default_Slice_Values_Reasons": ""
+ }
+]

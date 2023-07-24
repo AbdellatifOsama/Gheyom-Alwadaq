@@ -1,0 +1,15 @@
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\bin\Debug\net7.0\GheyomAlwadaqTask.BLL.deps.json
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\bin\Debug\net7.0\GheyomAlwadaqTask.BLL.dll
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\bin\Debug\net7.0\GheyomAlwadaqTask.BLL.pdb
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\bin\Debug\net7.0\GheyomAlwadaqTask.DAL.dll
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\bin\Debug\net7.0\GheyomAlwadaqTask.DAL.pdb
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\obj\Debug\net7.0\GheyomAlwadaqTask.BLL.csproj.AssemblyReference.cache
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\obj\Debug\net7.0\GheyomAlwadaqTask.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\obj\Debug\net7.0\GheyomAlwadaqTask.BLL.AssemblyInfoInputs.cache
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\obj\Debug\net7.0\GheyomAlwadaqTask.BLL.AssemblyInfo.cs
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\obj\Debug\net7.0\GheyomAlwadaqTask.BLL.csproj.CoreCompileInputs.cache
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\obj\Debug\net7.0\GheyomAlwadaqTask.BLL.csproj.CopyComplete
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\obj\Debug\net7.0\GheyomAlwadaqTask.BLL.dll
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\obj\Debug\net7.0\refint\GheyomAlwadaqTask.BLL.dll
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\obj\Debug\net7.0\GheyomAlwadaqTask.BLL.pdb
+C:\Users\abdel\source\repos\GheyomAlwadaqTask\GheyomAlwadaqTask.BLL\obj\Debug\net7.0\ref\GheyomAlwadaqTask.BLL.dll
